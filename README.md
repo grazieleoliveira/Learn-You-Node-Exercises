@@ -18,6 +18,10 @@ Since I've decided to start commiting myself to learning NodeJS this year, I sta
   filtered by the extension of the files. You will be provided a directory
   name as the first argument to your program (e.g. '/path/to/dir/') and a
   file extension to filter by as the second argument. (**filtered-ls.js**)
+- Create a program that prints a list of files in a given directory,
+  filtered by the extension of the files. The first argument is the
+  directory name and the second argument is the extension filter. Print the list of files (one file per line) to the console. You must use asynchronous I/O. (**make it modular**)
+-  Write a program that performs an HTTP GET request to a URL provided to you as the first command-line argument. Write the String contents of each "data" event from the response to a new line on the console (stdout). (**http-client.js**)
 
 ### You can try testing it in your machine!
 
