@@ -23,4 +23,4 @@ Since I've decided to start commiting myself to learning NodeJS this year, I sta
 
 Make sure you have node installed and you are good to go! For example, you can run the async challenge by using the command `node my-first-async-io.js ./my-first-io.txt`
 
-If you want to try it using another txt file just copy the full path and change **./my-first-io.txt** to **./whatever/path/your/file/is.txt**
+If you want to try it using another txt file just copy the full path and change **./my-first-io.txt** from the previous command to **./whatever/path/your/file/is.txt**
